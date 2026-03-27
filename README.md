@@ -20,7 +20,7 @@ DATE:
 
 ---
 
-1.## CIRCUIT DIAGRAM -INVERTING AMPLIFIER
+## 1 CIRCUIT DIAGRAM -INVERTING AMPLIFIER
 
 <img width="1600" height="843" alt="image" src="https://github.com/user-attachments/assets/e7a233ec-1a91-4d76-a880-f3f36edc2748" />
 
@@ -35,7 +35,7 @@ DATE:
 
 ---
 
-2.## CIRCUIT DIAGRAM -NON INVERTING AMPLIFIER
+## 2 CIRCUIT DIAGRAM -NON INVERTING AMPLIFIER
 
 <img width="1600" height="846" alt="image" src="https://github.com/user-attachments/assets/12651823-b60b-4faf-962b-b6e4bb37ef51" />
 
@@ -48,7 +48,7 @@ DATE:
 <img width="1600" height="764" alt="image" src="https://github.com/user-attachments/assets/0e23b1da-31ff-43f9-893e-632c8948264a" />
 
 ---
-3.## CIRCUIT DIAGRAM - DIFFERENTIAL AMPLIFIER 
+## 3 CIRCUIT DIAGRAM - DIFFERENTIAL AMPLIFIER 
 <img width="1600" height="828" alt="image" src="https://github.com/user-attachments/assets/089ff3e3-8878-4200-bd44-393659b56b39" />
 
 ---
@@ -60,7 +60,7 @@ DATE:
 <img width="1599" height="761" alt="image" src="https://github.com/user-attachments/assets/72b87f8d-2ae7-4132-938c-763e46e83d0a" />
 
 ---
-4.## CIRCUIT DIAGRAM - INSTRUMENTATION AMPLIFIER
+## 4 CIRCUIT DIAGRAM - INSTRUMENTATION AMPLIFIER
 
 <img width="1599" height="818" alt="image" src="https://github.com/user-attachments/assets/67ad584f-1098-43e9-b806-25ee22e5be4a" />
 
