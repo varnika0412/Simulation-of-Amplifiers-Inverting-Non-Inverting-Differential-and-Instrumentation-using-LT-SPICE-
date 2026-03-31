@@ -1,5 +1,4 @@
-### *EX.NO:* 2 SIMULATION OF AMPLIFIER INVERTING, NON INVERTING , DIFFERENTIAL AMPLIFIER AND INSTRUMENTATION AMPLIFIERS USING LT SPICE
-DATE: 
+**EX.NO:** 2 SIMULATION OF AMPLIFIER INVERTING, NON INVERTING , DIFFERENTIAL AMPLIFIER AND INSTRUMENTATION AMPLIFIERS USING LT SPICE
 
 **  
 
@@ -10,19 +9,19 @@ DATE:
 
 ## PROCEDURE:
 
-1.Double click on LT- SPICE  icon\n
-2.New schematic window open\n
-3.Pick and paste the required component from the library and draw the circuit diagram\n 
-4.Complete the connection.\n
-5.Save the file by giving file name.\n
-6.Click on the run option ->click advanced open ->select Ac analysis->enter the amplitude-> time delay stop time value.\n
-7.Click on the run option ->simulationwindow opens->place the probe ->output graph is obtained\n
+1.Double click on LT- SPICE  icon.
+2.New schematic window open.
+3.Pick and paste the required component from the library and draw the circuit diagram .
+4.Complete the connection.
+5.Save the file by giving file name.
+6.Click on the run option ->click advanced open ->select Ac analysis->enter the amplitude-> time delay stop time value.
+7.Click on the run option ->simulationwindow opens->place the probe ->output graph is obtained
 
 ---
 
-## 1 CIRCUIT DIAGRAM -INVERTING AMPLIFIER
+1.## CIRCUIT DIAGRAM -INVERTING AMPLIFIER
 
-<img width="1600" height="843" alt="image" src="https://github.com/user-attachments/assets/e7a233ec-1a91-4d76-a880-f3f36edc2748" />
+<img width="1280" height="820" alt="image" src="https://github.com/user-attachments/assets/6c84b614-52e4-4620-982c-99d422c7a541" />
 
 
 ---
@@ -31,48 +30,47 @@ DATE:
 ---
 ## OUT PUT WAVEFORM AND DISCUSSION 
 
-<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/88df2149-c8f3-4eaa-9394-ba26cbe4bbf7" />
+![WhatsApp Image 2025-11-15 at 10 57 20 AM](https://github.com/user-attachments/assets/27e221fd-63ba-4222-9150-67da5d81c647)
 
 ---
 
-## 2 CIRCUIT DIAGRAM -NON INVERTING AMPLIFIER
+2.## CIRCUIT DIAGRAM -NON INVERTING AMPLIFIER
 
-<img width="1600" height="846" alt="image" src="https://github.com/user-attachments/assets/12651823-b60b-4faf-962b-b6e4bb37ef51" />
-
+PASTE THE CIRCUIT HERE
 ---
+<img width="1896" height="1008" alt="image" src="https://github.com/user-attachments/assets/fa46c925-d297-44b7-b500-cecbf7a7c3af" />
 
 
 ---
 ## OUTPUT WAVEFORM AND DISCUSSION 
-
-<img width="1600" height="764" alt="image" src="https://github.com/user-attachments/assets/0e23b1da-31ff-43f9-893e-632c8948264a" />
-
----
-## 3 CIRCUIT DIAGRAM - DIFFERENTIAL AMPLIFIER 
-<img width="1600" height="828" alt="image" src="https://github.com/user-attachments/assets/089ff3e3-8878-4200-bd44-393659b56b39" />
+<img width="1919" height="1004" alt="image" src="https://github.com/user-attachments/assets/9790b253-de76-45a7-969d-2cd21ec042f7" />
 
 ---
+3.## CIRCUIT DIAGRAM - DIFFERENTIAL AMPLIFIER 
+
+PASTE THE CIRCUIT HERE
+---
+<img width="1919" height="996" alt="image" src="https://github.com/user-attachments/assets/1ebcdba1-a7ab-4bcf-a0e3-47f897df53df" />
 
 
 
 ## OUTPUT WAVEFORM AND DISCUSSION 
-
-<img width="1599" height="761" alt="image" src="https://github.com/user-attachments/assets/72b87f8d-2ae7-4132-938c-763e46e83d0a" />
-
----
-## 4 CIRCUIT DIAGRAM - INSTRUMENTATION AMPLIFIER
-
-<img width="1599" height="818" alt="image" src="https://github.com/user-attachments/assets/67ad584f-1098-43e9-b806-25ee22e5be4a" />
+<img width="1918" height="996" alt="image" src="https://github.com/user-attachments/assets/0e7aec8f-a18e-4deb-b4d2-0e0931fa95bb" />
 
 ---
+4.## CIRCUIT DIAGRAM - INSTRUMENTATION AMPLIFIER
+
+PASTE THE CIRCUIT HERE
+---
+<img width="1919" height="999" alt="image" src="https://github.com/user-attachments/assets/88c6cf5d-8f14-4ad9-ba7f-0899cd4bc6a0" />
 
 
 
 ## OUT PUT WAVEFORM AND DISCUSSION 
-
-<img width="1599" height="815" alt="image" src="https://github.com/user-attachments/assets/a8145b22-de4b-4df1-8e24-a7d9c69ba298" />
+<img width="1919" height="982" alt="image" src="https://github.com/user-attachments/assets/3dd291cd-f060-4430-95e4-00467954df30" />
 
 ---
 
 ## RESULT
 Thus, the Inverting,Non-Inverting, Differential, and Instrumentation Amplifiers were designed and their performance successfully tested using LT-SPICE.
+---
